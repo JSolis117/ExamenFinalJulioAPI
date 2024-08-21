@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenFinalJulioAPI", "ExamenFinalJulioAPI\ExamenFinalJulioAPI.csproj", "{D82B8B2B-E15A-4319-A183-5C5073F230F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D82B8B2B-E15A-4319-A183-5C5073F230F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D82B8B2B-E15A-4319-A183-5C5073F230F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D82B8B2B-E15A-4319-A183-5C5073F230F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D82B8B2B-E15A-4319-A183-5C5073F230F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12982552-B46A-4AA6-9DE6-2D50FE48E2CF}
+	EndGlobalSection
+EndGlobal
